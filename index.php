@@ -10,7 +10,7 @@
 <body>
     <?php 
         echo '123123';
-        echo '123456';
+        echo '123456asdf';
     ?>
 </body>
 </html>
